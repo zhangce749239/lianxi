@@ -8,6 +8,7 @@
 
 #import "ViewController.h"
 #import "AppDelegate.h"
+
 @interface ViewController ()
 
 @end
@@ -18,6 +19,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSString;
+    NSArray;
 }
 
 - (void)didReceiveMemoryWarning {
