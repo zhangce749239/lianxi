@@ -15,6 +15,7 @@
 		1A3F8BEB1D3F56750080DAA5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A3F8BE91D3F56750080DAA5 /* LaunchScreen.storyboard */; };
 		1A3F8BF61D3F56750080DAA5 /* __GitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A3F8BF51D3F56750080DAA5 /* __GitTests.m */; };
 		1A3F8C011D3F56760080DAA5 /* __GitUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A3F8C001D3F56760080DAA5 /* __GitUITests.m */; };
+		1A3F8C101D3F57C10080DAA5 /* OneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A3F8C0F1D3F57C10080DAA5 /* OneViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		1A3F8BFC1D3F56760080DAA5 /* 练习GitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "练习GitUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A3F8C001D3F56760080DAA5 /* __GitUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = __GitUITests.m; sourceTree = "<group>"; };
 		1A3F8C021D3F56760080DAA5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A3F8C0E1D3F57C10080DAA5 /* OneViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OneViewController.h; sourceTree = "<group>"; };
+		1A3F8C0F1D3F57C10080DAA5 /* OneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OneViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				1A3F8BDF1D3F56750080DAA5 /* AppDelegate.m */,
 				1A3F8BE11D3F56750080DAA5 /* ViewController.h */,
 				1A3F8BE21D3F56750080DAA5 /* ViewController.m */,
+				1A3F8C0E1D3F57C10080DAA5 /* OneViewController.h */,
+				1A3F8C0F1D3F57C10080DAA5 /* OneViewController.m */,
 				1A3F8BE41D3F56750080DAA5 /* Main.storyboard */,
 				1A3F8BE71D3F56750080DAA5 /* Assets.xcassets */,
 				1A3F8BE91D3F56750080DAA5 /* LaunchScreen.storyboard */,
@@ -276,6 +281,7 @@
 				1A3F8BE31D3F56750080DAA5 /* ViewController.m in Sources */,
 				1A3F8BE01D3F56750080DAA5 /* AppDelegate.m in Sources */,
 				1A3F8BDD1D3F56750080DAA5 /* main.m in Sources */,
+				1A3F8C101D3F57C10080DAA5 /* OneViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
